@@ -41,6 +41,11 @@ li a:hover:not(.active){
 .cn{
     text-align: center;
 }
+.event{
+  margin-top: 2%;
+  margin-left: 15%;
+   margin-right: 15%;
+}
 /*Collopsable Menu*/
 .collapsible {
   color: black;
@@ -108,6 +113,11 @@ li a:hover:not(.active){
     }
     #ml{
       margin-left: 0%;
+    }
+    .event{
+      margin-top: 2%;
+      margin-left: 5%;
+       margin-right: 5%;
     }
     footer{
       margin-left: 0%;
